@@ -17,11 +17,11 @@
   "author": "Emarsys",
   "license": "MIT",
   "dependencies": {
-    "gulp-util": "3.0.7",
-    "pug-lint": "2.1.2",
-    "lodash": "3.10.1",
-    "rcloader": "0.1.4",
-    "through2": "2.0.0"
+    "gulp-util": "3.0.8",
+    "pug-lint": "2.5.0",
+    "lodash": "4.17.4",
+    "rcloader": "0.2.2",
+    "through2": "2.0.3"
   },
   "devDependencies": {
     "chai": "3.4.1",
